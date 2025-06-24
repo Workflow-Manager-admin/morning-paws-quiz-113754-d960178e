@@ -52,6 +52,60 @@ function App() {
         { text: "Alert and ready for challenges", dog: "German Shepherd" },
         { text: "Calm and minimalist", dog: "Greyhound" }
       ]
+    },
+    {
+      question: "How do you feel about morning exercise?",
+      answers: [
+        { text: "Bring it on! Love a good run", dog: "Golden Retriever" },
+        { text: "Prefer a short walk and back to bed", dog: "French Bulldog" },
+        { text: "I'm disciplined and stick to my workout plan", dog: "German Shepherd" },
+        { text: "Gentle stretching or yoga is my style", dog: "Greyhound" }
+      ]
+    },
+    {
+      question: "What's your first reaction when you see sunlight?",
+      answers: [
+        { text: "Charge outside ready for adventure!", dog: "Golden Retriever" },
+        { text: "Peek through the window and yawn", dog: "French Bulldog" },
+        { text: "Check the weather and plan the day", dog: "German Shepherd" },
+        { text: "Find the sunniest spot and bask", dog: "Greyhound" }
+      ]
+    },
+    {
+      question: "How do you handle a surprise change in your morning plans?",
+      answers: [
+        { text: "Go with the flow, make it fun!", dog: "Golden Retriever" },
+        { text: "Pause and adjust, but stay chill", dog: "French Bulldog" },
+        { text: "Take charge to solve the situation", dog: "German Shepherd" },
+        { text: "Quietly adapt—no stress", dog: "Greyhound" }
+      ]
+    },
+    {
+      question: "You have a free morning. What do you do?",
+      answers: [
+        { text: "Meet friends for brunch outdoors", dog: "Golden Retriever" },
+        { text: "Snuggle in bed and enjoy a treat", dog: "French Bulldog" },
+        { text: "Get ahead on tasks and be productive", dog: "German Shepherd" },
+        { text: "Go for a peaceful walk or take it easy", dog: "Greyhound" }
+      ]
+    },
+    {
+      question: "What’s your favorite part of a morning routine?",
+      answers: [
+        { text: "Greeting everyone enthusiastically!", dog: "Golden Retriever" },
+        { text: "Enjoying cozy comforts", dog: "French Bulldog" },
+        { text: "Tackling the day's challenges head-on", dog: "German Shepherd" },
+        { text: "That first moment of calm", dog: "Greyhound" }
+      ]
+    },
+    {
+      question: "Pick a breakfast accessory:",
+      answers: [
+        { text: "A colorful bowl (full of something delicious!)", dog: "Golden Retriever" },
+        { text: "A plush robe and slippers", dog: "French Bulldog" },
+        { text: "A planner or to-do list", dog: "German Shepherd" },
+        { text: "A cozy blanket in a sunbeam", dog: "Greyhound" }
+      ]
     }
   ];
 
